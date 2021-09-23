@@ -1,39 +1,33 @@
-[**bold**]Yönetici Rehberi
-Eğitim Uygulaması
-
-1. Yerleşim
-   1. Sol Menü
-      1. Profil Kartı
-      2. Menü
-   2. Üst Menü
-      1. Kompakt Görünüm
-      2. Roller
-      3. Uygulamalar
-      4. Duyurular
-      5. Görünüm Ayarları
-      6. Kullanıcı Bilgileri
-   3. Alt Kısım
-      1. Hakkında
-      2. Lisans
-      3. Dokümanlar
-2. Anasayfa ve Gösterge Panelleri
-   1. İstatistikler
-   2. Bugün
-   3. Fakülteler
-   4. Birimler
-   5. Son Aramalar
+#Eğitim Uygulaması
+1. [Yerleşim](layout/index.md)
+   1. [Sol Menü](layout/left.md)
+      1. [Profil Kartı](layout/left.md#profile)
+      2. [Menü](layout/left.md#menu)
+   2. [Üst Menü](layout/top.md)
+      1. [Kompakt Görünüm](layout/top.md#compact)
+      2. [Roller](layout/top.md#roles)
+      3. [Uygulamalar](layout/top.md#apps)
+      4. [Duyurular](layout/top.md#announces)
+      5. [Görünüm Ayarları](layout/top.md#viewsettings)
+      6. [Kullanıcı Bilgileri](layout/top.md#user)
+   3. [Alt Kısım](layout/bottom.md)
+      1. [Hakkında](layout/bottom.md#about)
+      2. [Lisans](layout/bottom.md#licence)
+      3. [Dokümanlar](layout/bottom.md#docs)
+2. [Anasayfa ve Gösterge Panelleri](dashboard.md)
+   1. [İstatistikler](dashboard.md#stats)
+   2. [Bugün](dashboard.md#today)
+   3. [Fakülteler](dashboard.md#faculty)
+   4. [Birimler](dashboard.md#unit)
+   5. [Son Aramalar](dashboard.md#search)
 3. Modüller
-   1. Eğitimler : 
-   Excel ile yüklenen, elle girilen veya entegrasyonla bağlanan tüm eğitimler bu sayfada listelenir. Eğitimlerle ilgili kapsamlı işlemler bu modül altında yapılır.
-
-   2. Sanal Sınıflar :
-   Sanal sınıflar bu sayfada görüntülenir. Düzenlenen sanal sınıfların detaylı bilgileri yer alır ve çeşitli işlemler yapılabilir.
-   3. Sınavlar : 
-   Sınavların listesi, eğer sınav yapıldıysa oturum bilgileri bu sayfada yer alır.
-   4. Ödevler
-   5. İçerikler
-   6. Duyurular
-   7. Kullanıcılar
-   8. Sanal Takvim
-   9. Raporlar
-   10. Geri Dönüşüm
+   1. [Eğitimler](course.md)
+   2. [Sanal Sınıflar](vclass.md)
+   3. [Sınavlar](exam.md)
+   4. [Ödevler](assignment.md)
+   5. [İçerikler](content.md)
+   6. [Duyurular](announce.md)
+   7. [Kullanıcılar](user.md)
+   8. [Sanal Takvim](vschedule.md)
+   9. [Raporlar](report.md)
+   10. [Geri Dönüşüm](trash.md)

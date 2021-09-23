@@ -1,0 +1,1 @@
+Anasayfa ve Gösterge Panelleri
