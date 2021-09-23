@@ -1,4 +1,4 @@
-[bold]Yönetici Rehberi
+[**bold**]Yönetici Rehberi
 Eğitim Uygulaması
 
 1. Yerleşim
