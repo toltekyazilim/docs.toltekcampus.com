@@ -1,6 +1,0 @@
-![](media/logo.png)
-1. [Yönetim Uygulaması](toltek.campus.manage/index.md)
-2. [Eğitim Uygulaması](toltek.campus.course/index.md)
-3. [Öğrenci Uygulaması](toltek.campus.student/index.md)
-4. [Destek Uygulaması](toltek.campus.support/index.md)
-5. [Canlı Yayın Uygulaması](toltek.live.manage/index.md)
