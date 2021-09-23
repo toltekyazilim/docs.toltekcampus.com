@@ -1,4 +1,5 @@
-#Eğitim Uygulaması
+# Eğitim Uygulaması
+
 1. [Yerleşim](layout/index.md)
    1. [Sol Menü](layout/left.md)
       1. [Profil Kartı](layout/left.md#profile)
